@@ -1,0 +1,17 @@
+.main-nav{
+    box-shadow: 0 5px 10px -2px rgb(0 0 0 / 20%);
+}
+*{
+font-size: 14px;
+color: #676969;
+}
+a{
+    color: #676969;
+    text-decoration: none;
+}
+.text-primary{
+    color: #004aad !important;
+}
+a:hover > .fa-download {
+    color: #004aad !important;
+}
